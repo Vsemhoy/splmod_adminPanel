@@ -1,0 +1,21 @@
+
+.StatusDot  {
+    display: block;
+    height: 22px;
+    width: 22px;
+    border: 1px solid rgb(226, 226, 226);
+    border-radius: 22px;
+}
+
+.user-disabled {
+    background: rgb(201, 201, 201);
+}
+.user-enabled {
+    background: rgb(224, 255, 178);
+}
+.user-banned {
+    background: rgb(255, 178, 178);
+}
+.user-toactivate {
+    background: rgb(132, 245, 255);
+}
